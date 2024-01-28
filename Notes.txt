@@ -1,0 +1,2 @@
+We will use Osmium to extract the region of New York from OpenStreetMap. Then implement a system which will prompt the user
+to give their location and ask for target location and then draw on the map the optimal path across road network.
