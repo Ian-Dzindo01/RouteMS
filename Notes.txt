@@ -1,6 +1,9 @@
 We will use Osmium to extract the region of New York from OpenStreetMap. Then implement a system which will prompt the user
 to give their location and ask for target location and then draw on the map the optimal path across road network.
 Use AStar algorithm.
+Use IO2D as a GIS renderer
 
 TASKS:
-1. Read in and open map of NY.
+1. Render and display the map
+
+- Need a smaller map. Whole of NYC is too much to begin with.
